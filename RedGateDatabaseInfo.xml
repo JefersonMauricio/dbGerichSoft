@@ -64,6 +64,14 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>0</Count>
+    <Count>8</Count>
+    <DataFile>dbo.VENTA_DETALLE_Data.sql</DataFile>
+    <DataFile>dbo.RESERVA_DETALLE_Data.sql</DataFile>
+    <DataFile>dbo.VENTA_Data.sql</DataFile>
+    <DataFile>dbo.RESERVA_Data.sql</DataFile>
+    <DataFile>dbo.CLIENTE_Data.sql</DataFile>
+    <DataFile>dbo.UBIGEO_Data.sql</DataFile>
+    <DataFile>dbo.TRABAJADOR_Data.sql</DataFile>
+    <DataFile>dbo.PRODUCTO_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
